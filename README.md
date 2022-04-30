@@ -10,3 +10,6 @@ resting electrocardiographic results (values 0,1,2)
 maximum heart rate achieved
 exercise induced angina
 oldpeak = ST depression induced by exercise relative to rest
+the slope of the peak exercise ST segment
+number of major vessels (0-3) colored by flourosopy
+thal: 0 = normal; 1 = fixed defect; 2 = reversable defect
